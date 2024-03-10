@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-10T21:02:55 IST" name="Default suite" finished-at="2024-03-10T21:02:56 IST" duration-ms="503">
+    <groups>
+    </groups>
+    <test started-at="2024-03-10T21:02:55 IST" name="Default test" finished-at="2024-03-10T21:02:56 IST" duration-ms="503">
+      <class name="dataprovider.TestExcel">
+        <test-method signature="getData(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.TestExcel@5ba3f27a]" started-at="2024-03-10T21:02:56 IST" name="getData" data-provider="LoginData" finished-at="2024-03-10T21:02:56 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[siddhesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[iamsidh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getData(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.TestExcel@5ba3f27a]" started-at="2024-03-10T21:02:56 IST" name="getData" data-provider="LoginData" finished-at="2024-03-10T21:02:56 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rock]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nnhdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getData(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.TestExcel@5ba3f27a]" started-at="2024-03-10T21:02:56 IST" name="getData" data-provider="LoginData" finished-at="2024-03-10T21:02:56 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[samdsd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getData(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.TestExcel@5ba3f27a]" started-at="2024-03-10T21:02:56 IST" name="getData" data-provider="LoginData" finished-at="2024-03-10T21:02:56 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jonnn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getData(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.TestExcel@5ba3f27a]" started-at="2024-03-10T21:02:56 IST" name="getData" data-provider="LoginData" finished-at="2024-03-10T21:02:56 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[roy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[roysds123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- dataprovider.TestExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
