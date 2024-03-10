@@ -47,10 +47,10 @@ public class ExelRead extends Base {
 		ExelRead exc = new ExelRead();
 		String username = exc.readExcel("Sheet1", 1, 0);
 
-		//System.out.println("Username is :" + username);
+		System.out.println("Username is :" + username);
 		String password = exc.readExcel("Sheet1", 1, 1);
 
-		//System.out.println("Password is :" + password);
+		System.out.println("Password is :" + password);
 		
 		readAllData("Sheet1");
 
