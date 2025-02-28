@@ -1,10 +1,7 @@
 package excelUtils;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 
 public class Base {
 
